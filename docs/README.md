@@ -6,8 +6,8 @@ A Telegram bot built with **Spring Boot** that provides Free Fire player informa
 
 ## ✨ Features
 
-- `/ban <UID>` — Check if an account is banned (permanent or temporary)
-- `/player <UID>` — View full player profile (nickname, level, rank, region, likes, guild, etc.)
+- `/ban <2138152569>` — Check if an account is banned (permanent or temporary)
+- `/player <2138152569>` — View full player profile (nickname, level, rank, region, likes, guild, etc.)
 - Input validation and error handling
 - Clean architecture with separated services
 
@@ -77,8 +77,8 @@ com.devlil0.freefirebot
 | Command | Description |
 |---------|-------------|
 | `/start` | Welcome message and command list |
-| `/ban <uid>` | Check ban status of a Free Fire account |
-| `/player <uid>` | Get player profile information |
+| `/2138152569>` | Check ban status of a Free Fire account |
+| `/player <2138152569>` | Get player profile information |
 
 ## 🤝 Contributing
 
